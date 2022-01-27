@@ -1,5 +1,5 @@
 /* Import Fonts.css */
-@import url('/styles/fonts.css');
+@import url('./fonts.css');
 
 /* CSS Reset */
 *{
